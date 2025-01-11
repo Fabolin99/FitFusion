@@ -1,16 +1,26 @@
-# fit_fusion
+# Fit Fusion
 
-A fitness app developed with Flutter
+A fitness app for Android, IOS, and Web developed with Flutter.
+
+## Description
+
+Fit Fusion is a fitness app designed to help users manage their fitness journey effectively. The app includes the following features:
+- Home Page for navigation
+- Workouts Page with various exercise categories
+- Profile Page for personal information
+- Settings Page for account preferences
+- Progress Page to add, view, and delete fitness goals with a calendar to track due dates
+- SQL to create, edit, and retrieve user profiles.
+
+## Tools Used
+
+- AWS for authentication
+- AWS AppSync for real-time data synchronization
+- SQL for user's data
+- Android Studio IDE
+- Flutter SDK
+- Dart Programming language
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is in development. 
